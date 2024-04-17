@@ -2,6 +2,7 @@
 name = "broot-test"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/jfaz1/broot-test.git"
 
 [dependencies]
-bevy = { version = "0.13.2", features = ["wayland"] }
+bevy = { version = "0.12.1", features = ["wayland"] }
